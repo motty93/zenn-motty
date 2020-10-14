@@ -1,0 +1,23 @@
+{
+  "name": "zenn-motty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motty93/zenn-motty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motty93/zenn-motty/issues"
+  },
+  "homepage": "https://github.com/motty93/zenn-motty#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.49"
+  }
+}
