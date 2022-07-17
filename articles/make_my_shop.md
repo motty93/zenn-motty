@@ -1,5 +1,5 @@
 ---
-title: "2週間くらいで自分用のshopを作った話"
+title: "【個人開発】2週間くらいで自分用のshopを作った話"
 emoji: "🌻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["個人開発", "Next.js", "microCMS", "daisyUI"]
