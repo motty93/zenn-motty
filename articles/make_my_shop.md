@@ -2,7 +2,7 @@
 title: "【個人開発】2週間くらいで自分用のshopを作った話"
 emoji: "🌻"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["個人開発", "Next.js", "microCMS", "daisyUI"]
+topics: ["個人開発","Next.js","microCMS","daisyUI"]
 published: false
 ---
 
@@ -107,7 +107,7 @@ shopを作って若干燃え尽きてしまった感があります。
 
 ## おわり
 
-今回のサービスを作るにあたりいつもサポートしていただいている[@Ryohlan](https://twitter.com/Ryohlan)"さん、ありがとうございました！僕らの神はあなたです。今度新居でBBQしましょう。
+今回のサービスを作るにあたりいつもサポートしていただいている[@Ryohlan](https://twitter.com/Ryohlan)さん、ありがとうございました！僕らの神はあなたです。今度新居でBBQしましょう。
 
 そして、素晴らしいサービスを作り参考にさせていただいた[@sadnessOjisan](https://twitter.com/sadnessOjisan)さん、ありがとうございました。いつもtweet楽しませていただいてます。
 
