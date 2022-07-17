@@ -3,7 +3,7 @@ title: "【個人開発】2週間くらいで自分用のshopを作った話"
 emoji: "🌻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["個人開発", "Next.js", "microCMS", "daisyUI"]
-published: true
+published: false
 ---
 
 こんにちはこんばんは。もてぃといいます。
@@ -14,7 +14,7 @@ zennに投稿するのは初めてです。よろしくお願いします。
 
 こちらです↓
 
-<a href="https://shop.motty93.com" target="_blank">https://shop.motty93.com/</a>
+https://shop.motty93.com/
 
 2週間と書きましたが、色んな調整も含め実質1ヶ月程かかりました。タイトル詐欺です、ごめんなさい。
 
@@ -22,7 +22,7 @@ zennに投稿するのは初めてです。よろしくお願いします。
 
 不用品を売りたかったのですが、メルカリで本人確認を行ったところ何故かアカウントがBANされ（たぶん顔がキモかったからかも）、他のプラットフォームも検討した結果、手数料が高いという理由からそれなら自分で作ってしまえと思いたち作ってしまいました。
 
-以前から<a href="https://shop.ojisan.io" target="_blank">shop.ojisan.io</a>を拝見しており、技術スタックはおそらく似たりよったりですが割りかし参考にさせていただきました、本当にありがとうございます。特にaboutはパクりまくってます、ありがとうございます！感謝:pray:
+以前から https://shop.ojisan.io を拝見しており、技術スタックはおそらく似たりよったりですが割りかし参考にさせていただきました、本当にありがとうございます。特にaboutはパクりまくってます、ありがとうございます！感謝:pray:
 
 ## 技術スタック
 
@@ -83,16 +83,16 @@ microCMSは在庫管理、LINE Notifyは購入申請ボタン押された時の�
 
 shopを作って若干燃え尽きてしまった感があります。
 
-でも、ドメインを取ってまだ<a href="https://www.motty93.com" target="_blank">www.motty93.com</a>本体になにも書いてないので、このドメイン用のblogサイトも作りたいとは思ってます(現在進行中)。
+でも、ドメインを取ってまだ https://www.motty93.com/ 本体になにも書いてないので、このドメイン用のblogサイトも作りたいとは思ってます(現在進行中)。
 
 とりあえずは直近の業務委託がんばります。楽しいです。
 
-あと<a href="https://www.grandsaisonmotty.com">自宅ブログ</a>の更新を積極的にやりたい。嫁さんにそろそろ怒られそう…。不労所得ほちぃよ。
+あと[自宅ブログ](https://www.grandsaisonmotty.com)の更新を積極的にやりたい。嫁さんにそろそろ怒られそう…。不労所得ほちぃよ。
 
 
 ## 個人開発やりたい人へメッセージ
 
-まずはドメインを買いましょう。おすすめは<a href="https://domains.google/intl/ja_jp/">google domain</a>です。
+まずはドメインを買いましょう。おすすめは[google domain](https://domains.google/intl/ja_jp/)です。
 
 ドメインを買うとお金が発生します。そんなにデカイ金額ではないですが、やはり金が動くと人は行動します。
 
@@ -107,9 +107,9 @@ shopを作って若干燃え尽きてしまった感があります。
 
 ## おわり
 
-今回のサービスを作るにあたりいつもサポートしていただいている<a href="https://twitter.com/Ryohlan">@Ryohlan</a>さん、ありがとうございました！僕らの神はあなたです。今度新居でBBQしましょう。
+今回のサービスを作るにあたりいつもサポートしていただいている[@Ryohlan](https://twitter.com/Ryohlan)"さん、ありがとうございました！僕らの神はあなたです。今度新居でBBQしましょう。
 
-そして、素晴らしいサービスを作り参考にさせていただいた<a href="https://twitter.com/sadnessOjisan" target="_blank">@sadnessOjisan</a>さん、ありがとうございました。いつもtweet楽しませていただいてます。
+そして、素晴らしいサービスを作り参考にさせていただいた[@sadnessOjisan](https://twitter.com/sadnessOjisan)さん、ありがとうございました。いつもtweet楽しませていただいてます。
 
 以上。
 
