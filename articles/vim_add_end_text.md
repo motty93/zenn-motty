@@ -3,12 +3,8 @@ title: "【vim】検索した文字を含む行末に文字を追加する"
 emoji: "🐥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["vim", "正規表現"]
-published: false
+published: true
 ---
-
-初投稿。
-
-お手柔らかによろしくお願いします。
 
 ## TL;DR
 
