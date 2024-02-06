@@ -11,7 +11,7 @@ publication_name: ukiyocreate_dev
 
 つい先日、年末年始に [gocron](https://github.com/go-co-op/gocron)がv2になりv1のときのように単純なcronが使えなくなったので、調査しつつ実装してみました。
 
-## environments
+## 環境
 - go version 1.21.0 linux/amd64
 
 ## 実装
