@@ -7,12 +7,14 @@ published: false
 publication_name: ukiyocreate_dev
 ---
 
+![](/images/use_usb2btplus_on_linux/usb2btplus-main.jpg)
+
 どうもてぃです。
 私は現在ARCHISS Quattro TKLという某赤ちく○付きのキーボードを使用しています。
 このキーボードは静音赤軸という打鍵音がとても静かで打ちやすくそれでもって赤軸ライクな打ち心地なため、私にとっては快適タイピングライフを送るためには必要不可欠なガジェットなのです。
 ですが、このキーボードには致命的な弱点があります。
 
-それが**有線オンリーなこと**です。
+**有線オンリーなこと**です。
 
 こんなに素晴らしいプロダクトなのに非常に惜しい。
 いろいろ調べてみたら**USB2BTplus**という機器があるではないですか！
@@ -48,3 +50,6 @@ Linuxだと一癖ありましたので誰かの役に立てれば。
 
 ![](/images/use_usb2btplus_on_linux/usb2btplus-address.png)
 ![](/images/use_usb2btplus_on_linux/failed-connection.png)
+
+## おわりに
+HHKB Studio買え。
