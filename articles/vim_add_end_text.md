@@ -4,7 +4,6 @@ emoji: "🐥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["vim", "正規表現"]
 published: true
-publication_name: ukiyocreate_dev
 ---
 
 ## TL;DR

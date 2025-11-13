@@ -4,7 +4,6 @@ emoji: "🦍"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Golang", "cron"]
 published: true
-publication_name: ukiyocreate_dev
 ---
 
 こんにちもてぃ。

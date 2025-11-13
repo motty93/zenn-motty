@@ -4,7 +4,6 @@ emoji: "🍺"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Golang", "emoji", "linuxmint"]
 published: true
-publication_name: ukiyocreate_dev
 ---
 
 どうもてぃです。

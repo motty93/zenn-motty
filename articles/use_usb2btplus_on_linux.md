@@ -4,7 +4,6 @@ emoji: "⌨"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["keyboard", "usb2btplus", "linuxmint"]
 published: true
-publication_name: ukiyocreate_dev
 ---
 
 ![](/images/use_usb2btplus_on_linux/usb2btplus-main.jpg)

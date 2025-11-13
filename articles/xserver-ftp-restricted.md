@@ -4,7 +4,6 @@ emoji: "🖥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["xserver", "ftp", "network"]
 published: true
-publication_name: ukiyocreate_dev
 ---
 
 
